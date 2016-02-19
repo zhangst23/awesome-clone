@@ -16,7 +16,8 @@
 ## Python
 [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
 
-## JS
+## 前端
+[前端技能汇总 Frontend Knowledge Structure](https://github.com/zhangst23/fks)
 [awesome-angularjs](https://github.com/gianarb/awesome-angularjs)
 
 ## NodeJS
