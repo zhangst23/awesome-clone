@@ -10,7 +10,7 @@
 [Awesome Ruby](https://github.com/markets/awesome-ruby)
 [awesome-rails](https://github.com/ruby-vietnam/awesome-rails)
 
-## awesome-php
+## PHP
 [awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Python
