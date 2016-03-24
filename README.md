@@ -15,6 +15,7 @@
 
 ## Python
 [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+[pycrumbs](https://github.com/zhangst23/pycrumbs/blob/master/pycrumbs.md)
 
 ## 前端
 [前端技能汇总 Frontend Knowledge Structure](https://github.com/zhangst23/fks)
